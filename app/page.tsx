@@ -3,9 +3,7 @@ import Card from "./components/card";
 import { processTransaction } from "./utils/data";
 
 const CardData = await processTransaction();
-function refreshData() {
-  window.location.reload();
-}
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center py-12 px-4 sm:px-6 lg:px-8 overflow-x-hidden">

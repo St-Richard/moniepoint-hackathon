@@ -42,4 +42,4 @@ next-env.d.ts
 
 # test cases
 test_cases/
-app/transactions/
+app/transactions/*
