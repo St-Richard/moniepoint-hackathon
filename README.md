@@ -18,4 +18,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## How to Use
 
-Insert the test case folder into the app/test folder and hit the refresh button in the front-end.
+Insert the test case folder files into the app/test folder and reload the page.
